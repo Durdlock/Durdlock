@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python, Power BI e SQL**
 
-- 👀 Estou trabalhando atualmente em [Análise de viagens perdidas](https://app.powerbi.com/view?r=eyJrIjoiNGRhMTQyMWItZDNjMy00MWRjLWExNjctMmQ5ZmUyOWI5NTUyIiwidCI6ImY5OTY5OGY2LTAyNWMtNGZhZi05MjNiLTQzMTVlZWMyYTRmMiJ9&pageName=ReportSection)
+- 👀 Estou trabalhando atualmente em projetos de BI como [Análise de viagens perdidas](https://app.powerbi.com/view?r=eyJrIjoiNGRhMTQyMWItZDNjMy00MWRjLWExNjctMmQ5ZmUyOWI5NTUyIiwidCI6ImY5OTY5OGY2LTAyNWMtNGZhZi05MjNiLTQzMTVlZWMyYTRmMiJ9&pageName=ReportSection) e [Dashboard de RH](https://app.powerbi.com/view?r=eyJrIjoiMTdkZjkzNzktNDA3Zi00NTI4LWJhNGEtMWMwYjA1ZGI3Y2JiIiwidCI6ImY5OTY5OGY2LTAyNWMtNGZhZi05MjNiLTQzMTVlZWMyYTRmMiJ9)
 
 - 💬 Me pergunte sobre **Power BI, Excel**
 
