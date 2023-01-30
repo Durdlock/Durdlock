@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, eu sou George Lucas</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Python, Power BI e SQL**
+- 🌱 Um entusiasta de ciência de dados e apaixonado por explorar e compreender dados. Atualmente, estou estudando Python, Power BI e SQL para aprimorar minhas habilidades na análise e visualização de dados. Meu objetivo é aplicar essas habilidades em projetos interessantes e criativos que ajudem a transformar dados em insights valiosos. Estou animado para compartilhar meu conhecimento e aprendizado com a comunidade através do meu Github.
 
 - 👀 Estou trabalhando atualmente em projetos de BI como [Análise de viagens perdidas](https://app.powerbi.com/view?r=eyJrIjoiNGRhMTQyMWItZDNjMy00MWRjLWExNjctMmQ5ZmUyOWI5NTUyIiwidCI6ImY5OTY5OGY2LTAyNWMtNGZhZi05MjNiLTQzMTVlZWMyYTRmMiJ9&pageName=ReportSection) e [Dashboard de RH](https://app.powerbi.com/view?r=eyJrIjoiMTdkZjkzNzktNDA3Zi00NTI4LWJhNGEtMWMwYjA1ZGI3Y2JiIiwidCI6ImY5OTY5OGY2LTAyNWMtNGZhZi05MjNiLTQzMTVlZWMyYTRmMiJ9)
 
